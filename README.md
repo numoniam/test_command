@@ -1,6 +1,4 @@
 # SAVAN_GHORI
--hello this repo made when i learn git and github basic command
-
--thanks
-
--i am currently lerning basic command
+-Hello this repo made when i learn git and github basic command
+-Thaks to the yotube 
+-I am currently lerning basic command
